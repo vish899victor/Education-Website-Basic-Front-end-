@@ -1,0 +1,74 @@
+@media only screen and (max-width: 1150px){
+    .nav-list{
+        flex-direction: column;
+        
+    }
+    .navbar{
+        height: 70px;
+        flex-direction: column;
+        transition: all .20s ease-out;
+        background-color: rgb(15, 11, 11);
+        
+    }
+    .rightNav{
+        text-align: center;
+    }
+    .box-main{
+        max-width: 100%;
+        flex-direction: column-reverse;
+
+    }
+    #search{
+        width: 100%;
+    }
+    .burger{
+        display: block;
+    }
+    .h-nav-resp{
+        height: 372px;
+    }
+    .v-class-resp{
+        opacity: 0;
+    }
+    .thumbnail img{
+        width: 70px;
+        height: 80px;
+    }
+    .text-small{
+        text-align: center;
+        font-size: 25px;
+        
+    }
+    .text-big{
+        text-align: center;
+        font-size: 40px;
+        
+
+    }
+    .buttons{
+        text-align: center;
+        
+    }
+    .sectionTag{
+       font-size: 30px;
+       color: black;
+        }
+    
+    .sectionSubTag{
+        font-size: 18px;
+    
+    }
+    .paras{
+        padding: 0px ;
+    }
+    .form{
+        max-width: 300px;
+    }
+    .sectionTag{
+        padding: 0px;
+        
+    }
+    
+    
+    
+}
